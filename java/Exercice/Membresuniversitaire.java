@@ -1,9 +1,9 @@
 public class Membresuniversitaire {
-    int numero;
-    String prenom;
-    String nom;
-    int adressepostale;
-    String mail;
+    private int numero;
+    private String prenom;
+    private String nom;
+    private int adressepostale;
+    private String mail;
 
     public Membresuniversitaire (int numero, String prenom, String nom, int adressepostale, String mail ){
         this.numero = numero;
