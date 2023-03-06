@@ -1,3 +1,3 @@
-public class Personnel_Enseignant {
+public class Personnel_Enseignant extends Personnel {
     
 }

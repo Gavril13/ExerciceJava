@@ -1,3 +1,3 @@
-public class Enseignant_Chercheur {
+public class Enseignant_Chercheur extends Enseignant{
     
 }

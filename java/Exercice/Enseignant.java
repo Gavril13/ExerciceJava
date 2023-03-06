@@ -1,3 +1,3 @@
-public class Enseignant {
+public class Enseignant extends Membresuniversitaire{
     
 }
